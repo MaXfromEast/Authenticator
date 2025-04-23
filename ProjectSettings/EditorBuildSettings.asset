@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FirstScene.unity
+    guid: 5b427344459cdcc4482aaec5f34fd816
+  - enabled: 1
+    path: Assets/Scenes/HelpScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SearchScene.unity
+    guid: b35f253ca65ded94ea3586ffa2a12d20
+  - enabled: 1
+    path: Assets/Scenes/Cam.unity
+    guid: 80aba9abc60d8414b9f1fb31341ade1e
+  - enabled: 1
+    path: Assets/Scenes/HandEnter.unity
+    guid: be468b4f79ab814409afd5bfc13936a1
+  - enabled: 1
+    path: Assets/Scenes/WatchPass.unity
+    guid: a199fc622eb76634f9ddc1cd84216209
+  - enabled: 1
+    path: Assets/Scenes/Password.unity
+    guid: dc2d78f5764d82142947eb92cabb96e0
+  m_configObjects: {}
